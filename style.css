@@ -11,6 +11,7 @@ body {
    align-items: center;
    justify-content: center;
    background-image: url("https://preview.redd.it/vhg4vpsvozed1.jpeg?width=1080&crop=smart&auto=webp&s=066f632d0cc1b7bc3df9bdec3eed9d56263cc0b3");
+   background-size: cover;
 }
 
 .caixa-maior {
